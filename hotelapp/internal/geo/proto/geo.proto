@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-package geo;
-
-// TODO: Implement me
